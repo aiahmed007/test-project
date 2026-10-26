@@ -5,7 +5,7 @@ Project notes for this workspace.
 ## Overview
 
 - Workspace: `test-project`
-- Owner: Asif1
+- Owner: Asif
 
 ## Tech stack
 
